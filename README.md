@@ -1,6 +1,6 @@
 ## 🖥️ Projeto
 
-Essa é uma aplicação web mestrada pela Alura. O projeto consiste em um treino de métodos de array em javascript, utilizando como molde uma página de livros que pode ser filtrada em suas seções
+Essa é uma aplicação web mestrada pela Alura. O projeto consiste em um treino de validação de formulários em JavaScript e Html. Além de possuir validações em html, também existem validações no código js.
 
 ## 👨‍💻 Tecnologias
 Projeto pessoal instruido realizado com as seguintes tecnologias:
@@ -9,4 +9,6 @@ Projeto pessoal instruido realizado com as seguintes tecnologias:
 - CSS
 - JavaScript
 - Git e github
+
+- 
 ## Preview
